@@ -1,3 +1,5 @@
+# Write a program by using function to find the area of triangle
+
 def quadric():
   import math
   a=int(input("Enter the value of a: "))

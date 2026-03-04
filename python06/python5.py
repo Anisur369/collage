@@ -1,3 +1,5 @@
+# Write a program by using function to calculate the grade of the student
+
 def grade():
   Marks=float(input("Enter the marks: "))
   if(Marks>=80):

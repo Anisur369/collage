@@ -1,3 +1,5 @@
+# Write a program by using function to find the root of quadric quadric_equation
+
 def quadric_equation():
   a=int(input("Enter the value of a: "))
   b=int(input("Enter the value of b: "))

@@ -1,3 +1,5 @@
+# write a program by using function to calculate the area of circle.
+
 def circle():
   pi=3.1416
   r=float(input("Enter the value of radius: "))
